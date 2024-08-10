@@ -3,7 +3,7 @@
 <li> 🌱 I’m currently learning: C language </li>
 <li> 💞️ I’m looking to collaborate on: nothing </li>
 <li> 📫 How to reach me: don't </li>
-<li> 😄 Pronouns: he/him </li>
+<li> 😄 Pronouns: Pe/Pim </li>
 <li> ⚡ Fun fact: Ive just started coding, fist time in my life. I am 18</li>
 
 <!---
